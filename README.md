@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- I am a Consultant Medical Microbiologist in Liverpool
+- I am working on antimicrobial resistance
 <!--
 **cbrookfield1/cbrookfield1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
